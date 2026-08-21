@@ -1,0 +1,2 @@
+# No third-party packages required.
+# The detection script uses only Python's standard library.
