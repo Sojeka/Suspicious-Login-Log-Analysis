@@ -53,7 +53,7 @@ python scripts/detect_suspicious_logins.py sample_data/auth.log --threshold 5
 
 ## 🔎 Laboratory Evidence
 The following visual evidence provides an overview of the controlled cybersecurity laboratory environment, including the VirtualBox setup, Kali Linux testing environment, Wireshark traffic monitoring, and suspicious login analysis.
-![Cybersecurity Lab Environment](cybersecurity-lab-environment.png)
+![Cybersecurity Lab Evidence](cybersecurity-lab-evidence.png)
 
 ### Project Walkthrough
 [Watch the 3MTT NEXTGEN Cybersecurity Capstone on YouTube](https://youtu.be/JbTqNCzr118)
